@@ -51,14 +51,10 @@ collections:
       output: true
    resources:
       output: true
-   team:
+   theme:
       output: true
-   blog:
+   series:
       output: true
-feed:
-  collections:
-    - blog
-
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"

@@ -3,11 +3,10 @@ title: Ichikawa Danjûrô IX as Benkei in Kanjinchô
 permalink: /explore/ichikawa-danjuro-ix-as-benkei-in-kanjincho
 layout: default
 order: 1
+image: /images/P.198-2002.jpeg
 ---
 
-![Ichikawa Danjûrô IX as Benkei in Kanjinchô](../images/med/P.198-2002.jpg)  
-
-Click on each panel for larger view \[new window\]
+![Ichikawa Danjûrô IX as Benkei in Kanjinchô]({{site.baseurl}}/images/P.198-2002.jpeg){: .img-fluid }
 
 Colour print from woodblocks, with blind embossing (_karazuri_) and metallic pigment.  
 _Ôban_ format triptych.  
