@@ -4,7 +4,7 @@ permalink: /explore/bando-hikosaburo-v-as-a-tattooed-fireman
 layout: default
 order: 1
 series: gallantry
-image: /images/P_9_2003.jpg
+image: /images/thumbnails/P_9_2003.jpg
 ---
 ![Bandô Hikosaburô V]({{site.baseurl}}/images/P_9_2003.jpg){: .img-fluid }
 

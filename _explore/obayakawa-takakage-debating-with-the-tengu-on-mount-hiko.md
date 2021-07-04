@@ -2,7 +2,7 @@
 title: "Kobayakawa Takakage debating with the Tengu on Mount Hiko"
 layout: default
 permalink: "/explore/kobayakawa-takakage-debating-with-the-tengu-on-mount-hiko"
-image: /images/P_29_2003.jpg
+image: /images/thumbnails/P_29_2003.jpg
 series: ghosts
 ---
 

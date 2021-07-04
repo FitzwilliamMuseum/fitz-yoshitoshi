@@ -3,7 +3,7 @@ title: Kawarazaki Gonjûrô as a tattooed fireman
 permalink: /explore/kawarazaki-gonjuro-as-a-tattooed-fireman
 layout: default
 series: gallantry
-image: /images/P.8-2003.jpg
+image: /images/thumbnails/P.8-2003.jpg
 ---
 
 ![Kawarazaki Gonjûrô]({{ site.baseurl }}/images/P.8-2003.jpg){: .img-fluid}
