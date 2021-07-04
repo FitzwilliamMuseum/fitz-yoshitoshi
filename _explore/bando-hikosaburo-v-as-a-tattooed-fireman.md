@@ -16,7 +16,6 @@ From the series [**A Celebration of Gallantry**](/series/a-celebration-of-gallan
 
 Bandô Hikosaburô V (1832-77) was the adopted son of Bandô Hikosaburô IV (1800-73), and by the time he assumed his father's acting name in 1856, he was a successful male-lead actor (_tachiyaku_). With good looks, a fine voice and powers of interpretation he went on to play a wide variety of roles, including female roles (_onnagata_), in historical, domestic and dance dramas. His style influenced later generations of actors.
 
-[Click here for a print of this actor by Kunisada](P.113-1994_SE.html)
 
 Purchased from the Rylands Fund with a contribution from the National Art Collections Fund, 2003  
 P.9-2003

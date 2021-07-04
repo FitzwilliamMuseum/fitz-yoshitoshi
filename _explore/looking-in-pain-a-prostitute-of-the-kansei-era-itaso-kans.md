@@ -38,7 +38,7 @@ also blackened their teeth as a sign of adulthood.
 
 Given by the Friends of the  Fitzwilliam, 2004
 
-[P.1-2004]({{site.collection_url}}/object/id/183040)
+[P.1-2004]({{site.collection_url}}/id/object/183040)
 
 {% assign id='183040' %}
 {% include /structure/iiif.html %}
