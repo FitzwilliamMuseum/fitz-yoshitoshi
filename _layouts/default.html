@@ -98,6 +98,12 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
       <div class="container">
       <div class="col-12 shadow-sm p-3 mx-auto mb-3 mt-3 ">
         {{ content }}
+        {% if page.themes %}
+        <h3 class="lead display-5 text-success">Themes associated</h3>
+          {% for theme in page.themes %}
+            <a class="btn btn-dark mb-2 mr-2" href="{{site.baseurl}}/themes/{{theme}}">{{ theme | capitalize}}</a>
+          {% endfor %}
+        {% endif%}
       </div>
       </div>
       {% endif %}
