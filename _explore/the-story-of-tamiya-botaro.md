@@ -4,7 +4,7 @@ title: "Tamiya Bôtarô"
 permalink: /explore/the-story-of-tamiya-botaro
 image: /images/thumbnails/P_24_2003.jpeg
 ---
-![]({{site.baseurl}}/images/P_24_2003.jpeg)  
+![Tamiya Bôtarô]({{site.baseurl}}/images/P_24_2003.jpeg){: .img-fluid }  
 
 Colour print from woodblocks, with textile printing (nunomezuri).  
 Ôban format diptych.  

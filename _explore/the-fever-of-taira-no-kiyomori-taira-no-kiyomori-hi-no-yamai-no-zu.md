@@ -8,7 +8,7 @@ image: /images/thumbnails/P_14_2003.jpeg
 The Fever of Taira no Kiyomori  
 _Taira no Kiyomori hi no yamai no zu_
 
-![]({{site.baseurl}}/images/P_14_2003.jpeg){: .img-fluid }
+![The Fever of Taira no Kiyomori ]({{site.baseurl}}/images/P_14_2003.jpeg){: .img-fluid }
 
 Colour print from woodblocks, with blind embossing (karazuri), burnishing (shômenzuri) and mica (kirazuri).
 Ôban format triptych.

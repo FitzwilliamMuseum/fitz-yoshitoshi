@@ -6,7 +6,7 @@ series: aspects
 image: /images/thumbnails/P_20_2003.jpg
 ---
 
-![]({{site.baseurl}}/images/P_20_2003.jpg){: .img-fluid }
+![Mount Yoshino Midnight-moon]({{site.baseurl}}/images/P_20_2003.jpg){: .img-fluid }
 
 **Mount Yoshino Midnight-moon: Iga no Tsubone**  
 _Yoshinoyama yowa no tsuki - Iga no Tsubone_

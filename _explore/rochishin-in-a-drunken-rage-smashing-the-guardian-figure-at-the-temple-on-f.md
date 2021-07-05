@@ -5,7 +5,7 @@ permalink: /explore/rochishin-in-a-drunken-rage-smashing-the-guardian-figure
 image: /images/thumbnails/P_27_2003.jpg
 ---
 
-![]({{site.baseurl}}/images/P_27_2003.jpg){: .img-fluid }
+![Rochishin in a drunken rage]({{site.baseurl}}/images/P_27_2003.jpg){: .img-fluid }
 
 **Rochishin in a drunken rage smashing the guardian figure at the temple on Five-crested Mountain**  
 _Rochishin ransui godaizan kongôjin o uchikowasu no zu_

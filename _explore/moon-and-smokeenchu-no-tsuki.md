@@ -6,7 +6,7 @@ image: /images/thumbnails/P_22_2003.jpeg
 series: customs
 ---
 
-![]({{site.baseurl}}/images/P_22_2003.jpeg)
+![Moon and Smoke]({{site.baseurl}}/images/P_22_2003.jpeg){: .img-fluid }
 
 Moon and Smoke  
 _Enchû no tsuki_

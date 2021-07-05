@@ -6,7 +6,7 @@ image: /images/thumbnails/P_29_2003.jpg
 series: ghosts
 ---
 
-![Kobayakawa Takakage]({{site.baseurl}}/images/P_29_2003.jpg)
+![Kobayakawa Takakage]({{site.baseurl}}/images/P_29_2003.jpg){: .img-fluid }
 
 Colour print from woodblocks, with blackened red lead.
 _Ôban_ format.

@@ -5,7 +5,7 @@ permalink: /explore/the-ghost-of-tamichi
 image: /images/thumbnails/P_30_2003.jpg
 ---
 
-![The Ghost of Tamichi]({{site.baseurl}}/images/P_30_2003.jpg)
+![The Ghost of Tamichi]({{site.baseurl}}/images/P_30_2003.jpg){: .img-fluid }
 
 Colour print from woodblocks with mica (kirazuri).   
 Ôban format.  
@@ -25,7 +25,7 @@ the drawing is more refined and sophisticated (with the growing
 influence of Western drawing styles) and the colours more subtly
 chosen to evoke mood and emotion.
 
-Some disliked the novel treatment 
+Some disliked the novel treatment
 of subject matter, but the series was immensely popular, even though
 it sold for 2.5 sen, half a sen more than the
 usual price for commercial prints at this date.

@@ -9,7 +9,7 @@ image: /images/thumbnails/P_1_2004.jpeg
 Looking in Pain: a Prostitute  of the Kansei Era
 _Itasô Kansei nenkan jorô no fûzoku_
 
-![]({{site.baseurl}}/images/P_1_2004.jpeg)
+![Looking in Pain: a Prostitute  of the Kansei Era]({{site.baseurl}}/images/P_1_2004.jpeg){: .img-fluid }
 
 Colour print from woodblocks with textile printing (nunomezuri), gloss black (tsuyazumi)
 and imitation woodgrain (itame mokuhan). Ôban format.  

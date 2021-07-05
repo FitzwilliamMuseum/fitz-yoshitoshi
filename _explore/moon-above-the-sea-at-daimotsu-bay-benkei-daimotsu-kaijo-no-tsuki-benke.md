@@ -6,7 +6,7 @@ series: customs
 image: /images/thumbnails/P_19_2003.jpeg
 ---
 
-![]({{site.baseurl}}/images/P_19_2003.jpeg)
+![Moon above the Sea at Daimotsu Bay: Benkei]({{site.baseurl}}/images/P_19_2003.jpeg){: .img-fluid }
 
 Moon above the Sea at Daimotsu Bay: Benkei  
 _Daimotsu kaijô no tsuki - Benkei_

@@ -8,7 +8,7 @@ image: '/images/thumbnails/P_18_2003.jpeg'
 Rural Genji  
 _Inaka genji_
 
-![]({{site.baseurl}}/images/P_18_2003.jpeg)
+![Rural Genji ]({{site.baseurl}}/images/P_18_2003.jpeg){: .img-fluid }
 
 Colour print from woodblocks,  with blind embossing (karazuri), textile printing (nunomezuri)
 and borderless shading (atenashi bokashi); printed with extra bokashi clouds around moon.

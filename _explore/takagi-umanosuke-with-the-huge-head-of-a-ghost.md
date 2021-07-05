@@ -5,7 +5,7 @@ permalink: /explore/takagi-umanosuke-with-the-huge-head-of-a-ghost
 image: /images/thumbnails/P_10_2003.jpg
 ---
 
-![Takagi Umanosuke with the huge head of a Ghost]({{site.baseurl}}/images/P_10_2003.jpg)
+![Takagi Umanosuke with the huge head of a Ghost]({{site.baseurl}}/images/P_10_2003.jpg){: .img-fluid }
 
 Colour print from woodblocks.  
 Chûban format.  

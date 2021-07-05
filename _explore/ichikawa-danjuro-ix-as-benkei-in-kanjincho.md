@@ -7,7 +7,7 @@ image: /images/thumbnails/P_198_2002.jpeg
 
 Ichikawa Danjûrô IX as Benkei in Kanjinchô
 
-![]({{site.baseurl}}/images/P_198_2002.jpeg){: .img-fluid }
+![Ichikawa Danjûrô IX as Benkei in Kanjinchô]({{site.baseurl}}/images/P_198_2002.jpeg){: .img-fluid }
 
 Colour print from woodblocks, with blind embossing (karazuri) and metallic pigment.
 Ôban format triptych.  

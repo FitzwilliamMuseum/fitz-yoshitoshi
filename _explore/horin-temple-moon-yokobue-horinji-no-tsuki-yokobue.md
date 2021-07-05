@@ -5,9 +5,9 @@ permalink: /explore/horin-temple-moon-yokobue-horinji-no-tsuki-yokobue
 image: /images/thumbnails/P_23_2003.jpg
 ---
 
-![Hôrin Temple Moon: Yokobue]({{site.baseurl}}/images/P_23_2003.jpg)
-Hôrin Temple Moon: Yokobue  
-Hôrinji no tsuki - Yokobue
+![Hôrin Temple Moon: Yokobue]({{site.baseurl}}/images/P_23_2003.jpg){: .img-fluid }
+
+_Hôrinji no tsuki - Yokobue_
 
 Colour print from woodblocks, with blind embossing (karazuri) and textile printing   (nunomezuri), and with blackened red lead.  
 Ôban format.  

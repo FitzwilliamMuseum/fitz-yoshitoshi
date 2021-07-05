@@ -5,7 +5,7 @@ permalink: /explore/hyoshito-rinchu-kills-officer-riku-near-the-temple-of-the-mo
 image: /images/thumbnails/P_26_2003.jpg
 ---
 
-![]({{site.baseurl}}/images/P_26_2003.jpg){: .img-fluid }
+![Hyôshito Rinchû kills officer Riku]({{site.baseurl}}/images/P_26_2003.jpg){: .img-fluid }
 
 Hyôshito Rinchû kills officer Riku near the Temple of the Mountain Spirit  
 _Hyôshito Rinchû sanshinbyô no mae ni oito riku gukô o korosu_  

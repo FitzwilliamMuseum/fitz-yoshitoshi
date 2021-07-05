@@ -5,7 +5,7 @@ permalink: /explore/ichikawa-kodanji-iv-as-torii-matasuke
 image: /images/thumbnails/P_6_2003.jpeg
 ---
 
-![]({{site.baseurl}}/images/P_6_2003.jpeg)
+![Ichikawa Kodanji IV as Torii Matasuke]({{site.baseurl}}/images/P_6_2003.jpeg){: .img-fluid }
 
 Ichikawa Kodanji IV as Torii Matasuke  
 Colour print from woodblocks with blind embossing (karazuri) and mica (kirazuri).  

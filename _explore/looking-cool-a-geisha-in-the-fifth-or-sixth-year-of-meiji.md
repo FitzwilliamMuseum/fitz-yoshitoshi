@@ -5,7 +5,7 @@ permalink: /explore/looking-cool-a-geisha-in-the-fifth-or-sixth-year-of-meiji
 series: customs
 image: /images/thumbnails/P_3_2004.jpg
 ---
-![]({{site.baseurl}}/images/P_3_2004.jpg){:.img-fluid}
+![Looking Cool]({{site.baseurl}}/images/P_3_2004.jpg){:.img-fluid}
 
 Looking Cool: a Geisha in the fifth or sixth year of Meiji  
 _Suzushisô Meiji goroku nen irai geigi no fûzoku_

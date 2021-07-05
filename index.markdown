@@ -2,7 +2,7 @@
 layout: default
 title: 'Yoshitoshi: An online exhibition'
 ---
-
+![Moon and Smoke]({{site.baseurl}}/images/front/P_22_2003.jpg){: .img-fluid .float-right}
 
 > Do we not feel in Yoshitoshi the atmosphere of the city in those days, no longer old Edo, not yet the new Tokyo?  
 **Nagai Kafû**

@@ -6,7 +6,7 @@ image: /images/thumbnails/P_2_2004.jpg
 series: customs
 ---
 
-![]({{site.baseurl}}/images/P_2_2004.jpg){: .img-fluid }
+![Looking Smoky: a Housewife of the Kyowa Era]({{site.baseurl}}/images/P_2_2004.jpg){: .img-fluid }
 
 Looking Smoky: a Housewife of the Kyowa Era
 _Kemusô Kyôwa nenkan naishitsu no fûzoku_

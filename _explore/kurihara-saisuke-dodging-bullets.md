@@ -6,7 +6,7 @@ series: biographies
 image: /images/thumbnails/P_206_2002.jpeg
 ---
 
-![]({{site.baseurl}}/images/P_206_2002.jpeg){:.img-fluid }
+![Kurihara Saisuke dodging bullets]({{site.baseurl}}/images/P_206_2002.jpeg){:.img-fluid }
 
 Colour print from woodblocks. Ôban format.  
 Block-carver: Hori Ôta Tashichi. Biographical text   

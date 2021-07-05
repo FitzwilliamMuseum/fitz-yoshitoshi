@@ -6,7 +6,7 @@ series: customs
 image: /images/thumbnails/P_12_2003.jpg
 ---
 
-![]({{site.baseurl}}/images/P_12_2003.jpg){: .img-fluid }
+![Komagine Hachibyôe aiming his rifle at the viewer ]({{site.baseurl}}/images/P_12_2003.jpg){: .img-fluid }
 
 Komagine Hachibyôe aiming his rifle at the viewer  
 Colour print from woodblocks, with textile printing (nunomezuri).

@@ -5,7 +5,7 @@ permalink: /explore/suzaku-gate-moon-hakuga-sammi-suzakumon-no-tsuki-hakuga-samm
 image: /images/thumbnails/P_21_2003.jpg
 series: aspects
 ---
-![]({{site.baseurl}}/images/P_21_2003.jpg)
+![Suzaku Gate Moon: Hakuga Sammi]({{site.baseurl}}/images/P_21_2003.jpg){: .img-fluid }
 
 **Suzaku Gate Moon: Hakuga Sammi**  
 _Suzakumon no tsuki - Hakuga Sammi_

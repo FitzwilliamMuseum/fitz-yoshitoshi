@@ -5,7 +5,7 @@ permalink: /explore/the-yugao-chapter
 image: /images/thumbnails/P_76_2004.jpg
 ---
 
-![The Yûgao Chapter from The Tale of Genji]({{site.baseurl}}/images/P_76_2004.jpg)
+![The Yûgao Chapter from The Tale of Genji]({{site.baseurl}}/images/P_76_2004.jpg){: .img-fluid }
 
 _Genji yûgao no maki_
 

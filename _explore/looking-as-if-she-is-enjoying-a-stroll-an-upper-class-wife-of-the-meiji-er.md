@@ -5,7 +5,7 @@ permalink: /explore/looking-as-if-she-is-enjoying-a-stroll-an-upper-class-wife-o
 series: customs
 image: /images/thumbnails/P_4_2004.jpeg
 ---
-![]({{site.baseurl}}/images/P_4_2004.jpeg)
+![Looking as if she is enjoying a stroll]({{site.baseurl}}/images/P_4_2004.jpeg){: .img-fluid }
 
 Looking as if she is enjoying a stroll: an upper-class Wife of the Meiji era  
 _Sanpogashitasô Meiji nenkan saikun no fûzoku_
