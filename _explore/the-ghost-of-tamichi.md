@@ -3,6 +3,7 @@ layout: default
 title: "The Ghost of Tamichi"
 permalink: /explore/the-ghost-of-tamichi
 image: /images/thumbnails/P_30_2003.jpg
+themes: [ghosts]
 ---
 
 ![The Ghost of Tamichi]({{site.baseurl}}/images/P_30_2003.jpg){: .img-fluid }

@@ -3,6 +3,7 @@ layout: default
 title: "Picture of Masakiyo at Shinshu Castle"
 permalink: /explore/picture-of-masakiyo-at-shinshu-castle
 image: /images/thumbnails/P_7_2003.jpg
+themes: combat
 ---
 
 Picture of Masakiyo at Shinshu Castle during the conquest of Korea  

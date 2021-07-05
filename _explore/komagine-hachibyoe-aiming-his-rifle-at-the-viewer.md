@@ -3,6 +3,7 @@ layout: default
 title: "Komagine Hachibyôe"
 permalink: /explore/komagine-hachibyoe-aiming-his-rifle-at-the-viewer
 image: /images/thumbnails/P_12_2003.jpg
+themes: combat
 ---
 
 ![Komagine Hachibyôe aiming his rifle at the viewer ]({{site.baseurl}}/images/P_12_2003.jpg){: .img-fluid }

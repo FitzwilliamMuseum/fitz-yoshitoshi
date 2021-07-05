@@ -4,6 +4,7 @@ title: "Suzaku Gate Moon: Hakuga Sammi"
 permalink: /explore/suzaku-gate-moon-hakuga-sammi-suzakumon-no-tsuki-hakuga-sammi
 image: /images/thumbnails/P_21_2003.jpg
 series: aspects
+themes: [moon]
 ---
 ![Suzaku Gate Moon: Hakuga Sammi]({{site.baseurl}}/images/P_21_2003.jpg){: .img-fluid }
 

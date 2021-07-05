@@ -3,6 +3,7 @@ layout: default
 title: "False Murasaki and a Rural Genji - Nise murasaki inaka genji"
 permalink: /explore/false-murasaki-and-a-rural-genji-nise-murasaki-inaka-genji
 image: /images/thumbnails//P_16_2003.jpg
+themes: [ghosts,moon]
 ---
 
 ![False Murasaki and a Rural Genji]({{site.baseurl}}/images/P_16_2003.jpg){: .img-fluid }

@@ -4,6 +4,7 @@ title: "The Yûgao Chapter from The Tale of Genji"
 permalink: /explore/the-yugao-chapter
 image: /images/thumbnails/P_76_2004.jpg
 series: aspects
+themes: [genji,moon]
 ---
 
 ![The Yûgao Chapter from The Tale of Genji]({{site.baseurl}}/images/P_76_2004.jpg){: .img-fluid }

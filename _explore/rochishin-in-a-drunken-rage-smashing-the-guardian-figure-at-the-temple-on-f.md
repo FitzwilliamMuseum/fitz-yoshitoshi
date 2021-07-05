@@ -3,6 +3,7 @@ layout: default
 title: "Rochishin in a drunken rage"
 permalink: /explore/rochishin-in-a-drunken-rage-smashing-the-guardian-figure
 image: /images/thumbnails/P_27_2003.jpg
+themes: [combat,heroes,tattoos]
 ---
 
 ![Rochishin in a drunken rage]({{site.baseurl}}/images/P_27_2003.jpg){: .img-fluid }

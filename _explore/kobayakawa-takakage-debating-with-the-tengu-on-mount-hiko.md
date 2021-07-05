@@ -4,6 +4,7 @@ layout: default
 permalink: "/explore/kobayakawa-takakage-debating-with-the-tengu-on-mount-hiko"
 image: /images/thumbnails/P_29_2003.jpg
 series: ghosts
+themes: [ghosts]
 ---
 
 ![Kobayakawa Takakage]({{site.baseurl}}/images/P_29_2003.jpg){: .img-fluid }

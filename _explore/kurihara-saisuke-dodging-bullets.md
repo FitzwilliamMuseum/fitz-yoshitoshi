@@ -4,6 +4,7 @@ title: "Kurihara Saisuke dodging bullets"
 permalink: /explore/kurihara-saisuke-dodging-bullets
 series: biographies
 image: /images/thumbnails/P_206_2002.jpeg
+themes: combat
 ---
 
 ![Kurihara Saisuke dodging bullets]({{site.baseurl}}/images/P_206_2002.jpeg){:.img-fluid }
@@ -15,7 +16,7 @@ by Sanzantei Arindô (Sankanjin Kôrai). Publisher: Iseki
 Keyes 147-21  
 {: .text-info }
 
-From the series of **[thirty-six Biographies of Modern Men (Kinsei kyôgiden)]({{site.baseurl}}/series/biographies-of-modern-men)** 
+From the series of **[thirty-six Biographies of Modern Men (Kinsei kyôgiden)]({{site.baseurl}}/series/biographies-of-modern-men)**
 published in 1865-6.
 
 Firearms had been introduced into Japan when a Portuguese blew off course and landed on Kyushu

@@ -3,6 +3,7 @@ layout: default
 title: "Ichikawa Kodanji IV as Torii Matasuke"
 permalink: /explore/ichikawa-kodanji-iv-as-torii-matasuke
 image: /images/thumbnails/P_6_2003.jpeg
+themes: [actors,kodanji]
 ---
 
 ![Ichikawa Kodanji IV as Torii Matasuke]({{site.baseurl}}/images/P_6_2003.jpeg){: .img-fluid }

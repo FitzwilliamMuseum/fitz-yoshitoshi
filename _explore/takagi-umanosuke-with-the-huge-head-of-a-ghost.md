@@ -3,6 +3,7 @@ layout: default
 title: "Takagi Umanosuke with the huge head of a Ghost"
 permalink: /explore/takagi-umanosuke-with-the-huge-head-of-a-ghost
 image: /images/thumbnails/P_10_2003.jpg
+themes: [ghosts, heroes]
 ---
 
 ![Takagi Umanosuke with the huge head of a Ghost]({{site.baseurl}}/images/P_10_2003.jpg){: .img-fluid }

@@ -4,6 +4,7 @@ title: "Ii no Hayata killing the Nue at the Imperial Palace"
 permalink: /explore/ii-no-hayata-killing-the-nue-at-the-imperial-palace
 image: /images/thumbnails/P_28_2003.jpeg
 series: ghosts
+themes: [ghosts]
 ---
 ![Ii no Hayata killing the Nue at the Imperial Palace]({{site.baseurl}}/images/P_28_2003.jpeg){: .img-fluid }
 

@@ -3,6 +3,7 @@ layout: default
 title: "Rural Genji"
 permalink: /explore/rural-genji-inaka-genji
 image: '/images/thumbnails/P_18_2003.jpeg'
+themes: [genji,moon]
 ---
 
 Rural Genji  

@@ -4,6 +4,7 @@ title: "Hôrin Temple Moon: Yokobue"
 permalink: /explore/horin-temple-moon-yokobue-horinji-no-tsuki-yokobue
 image: /images/thumbnails/P_23_2003.jpg
 series: aspects
+themes: [moon]
 ---
 
 ![Hôrin Temple Moon: Yokobue]({{site.baseurl}}/images/P_23_2003.jpg){: .img-fluid }

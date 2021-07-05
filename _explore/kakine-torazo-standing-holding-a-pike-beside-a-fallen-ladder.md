@@ -4,6 +4,7 @@ layout: default
 series: biographies
 permalink: /explore/kakine-torazo-standing-holding-a-pike-beside-a-fallen-ladder
 image: /images/thumbnails/P_208_2002.jpg
+themes: [tattoos]
 ---
 
 ![Kakine Toraz&ocirc; standing holding a pike beside a fallen ladder]({{site.baseurl}}/images/P_208_2002.jpeg){: .img-fluid }

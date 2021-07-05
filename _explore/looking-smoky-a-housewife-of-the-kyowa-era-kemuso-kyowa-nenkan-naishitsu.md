@@ -4,6 +4,7 @@ title: "Looking Smoky: a Housewife of the Kyowa Era"
 permalink: /explore/looking-smoky-a-housewife-of-the-kyowa-era-kemuso-kyowa-nenkan-naishitsu
 image: /images/thumbnails/P_2_2004.jpg
 series: customs
+themes: [genji]
 ---
 
 ![Looking Smoky: a Housewife of the Kyowa Era]({{site.baseurl}}/images/P_2_2004.jpg){: .img-fluid }

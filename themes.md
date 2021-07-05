@@ -8,7 +8,7 @@ title: Explore Themes
 {% assign rows = site.themes.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 2 %}
-{% assign sorted = site.themes | sort:"order" %}
+{% assign sorted = site.themes | sort:"title" %}
     {% for author in sorted limit:2 offset:offset %}
     <div class="col-md-4 mb-3">
       <div class="card h-100" >

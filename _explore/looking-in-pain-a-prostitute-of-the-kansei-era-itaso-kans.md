@@ -4,6 +4,7 @@ title: "Looking in Pain"
 permalink: /explore/looking-in-pain-a-prostitute-of-the-kansei-era-itaso-kans
 series: customs
 image: /images/thumbnails/P_1_2004.jpeg
+themes: [tattoos]
 ---
 
 Looking in Pain: a Prostitute  of the Kansei Era

@@ -3,6 +3,7 @@ layout: default
 title: "Hyôshito Rinchû kills officer Riku near the Temple of the Mountain Spirit"
 permalink: /explore/hyoshito-rinchu-kills-officer-riku-near-the-temple-of-the-mountain-spirit
 image: /images/thumbnails/P_26_2003.jpg
+themes: [combat,heroes]
 ---
 
 ![Hyôshito Rinchû kills officer Riku]({{site.baseurl}}/images/P_26_2003.jpg){: .img-fluid }

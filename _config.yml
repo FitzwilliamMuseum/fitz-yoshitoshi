@@ -52,7 +52,7 @@ collections:
       output: true
    resources:
       output: true
-   theme:
+   themes:
       output: true
    series:
       output: true

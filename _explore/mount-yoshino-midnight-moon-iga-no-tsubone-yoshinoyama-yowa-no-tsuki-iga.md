@@ -4,6 +4,7 @@ title: "Mount Yoshino Midnight-moon: Iga no Tsubone"
 permalink: /explore/mount-yoshino-midnight-moon-iga-no-tsubone-yoshinoyama-yowa-no-tsuki-iga
 series: aspects
 image: /images/thumbnails/P_20_2003.jpg
+themes: [ghosts,moon]
 ---
 
 ![Mount Yoshino Midnight-moon]({{site.baseurl}}/images/P_20_2003.jpg){: .img-fluid }

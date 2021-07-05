@@ -4,6 +4,7 @@ title: "Moon above the Sea at Daimotsu Bay: Benkei"
 permalink: /explore/moon-above-the-sea-at-daimotsu-bay-benkei-daimotsu-kaijo-no-tsuki-benke
 series: aspects
 image: /images/thumbnails/P_19_2003.jpeg
+themes: [moon]
 ---
 
 ![Moon above the Sea at Daimotsu Bay: Benkei]({{site.baseurl}}/images/P_19_2003.jpeg){: .img-fluid }

@@ -4,6 +4,7 @@ title: "Moon and Smoke"
 permalink: /explore/moon-and-smokeenchu-no-tsuki
 image: /images/thumbnails/P_22_2003.jpeg
 series: aspects
+themes: [firemen,moon]
 ---
 
 ![Moon and Smoke]({{site.baseurl}}/images/P_22_2003.jpeg){: .img-fluid }

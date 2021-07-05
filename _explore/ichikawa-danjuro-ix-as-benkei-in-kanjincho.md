@@ -3,6 +3,7 @@ layout: default
 title: "Ichikawa Danjûrô IX as Benkei in Kanjinchô"
 permalink: /explore/ichikawa-danjuro-ix-as-benkei-in-kanjincho
 image: /images/thumbnails/P_198_2002.jpeg
+themes: actors
 ---
 
 Ichikawa Danjûrô IX as Benkei in Kanjinchô
