@@ -9,7 +9,7 @@ This series shows leading figures in a violent feud between two gambling rings i
 
 <div class="row">
 {% assign sorted-posts = site.explore | where: "series","biographies" %}
-{% for author in sorted-posts limit: 5 %}
+{% for author in sorted-posts %}
 <div class="col-md-4 mb-3">
   <div class="card h-100" >
     <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">

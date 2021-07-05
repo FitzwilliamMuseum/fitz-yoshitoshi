@@ -10,7 +10,7 @@ This series of 100 prints was published in 1885-92 by Akiyama Buemon. The subjec
 
 <div class="row">
 {% assign sorted-posts = site.explore | where: "series","aspects" %}
-{% for author in sorted-posts limit: 5 %}
+{% for author in sorted-posts  %}
 <div class="col-md-4 mb-3">
   <div class="card h-100" >
     <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">

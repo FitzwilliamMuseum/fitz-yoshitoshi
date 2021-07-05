@@ -7,6 +7,7 @@ title: Explore the Series
   <div class="row">
 {% assign rows = site.series.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
+
 {% assign offset = forloop.index0 | times: 2 %}
 {% assign sorted = site.series | sort:"order" %}
     {% for author in sorted limit:2 offset:offset %}

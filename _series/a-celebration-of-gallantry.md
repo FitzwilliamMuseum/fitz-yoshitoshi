@@ -9,7 +9,7 @@ This series of 7 prints was published in 1865 by Daikin. Each print shows a lead
 
 <div class="row">
 {% assign sorted-posts = site.explore | where: "series","gallantry" %}
-{% for author in sorted-posts limit: 5 %}
+{% for author in sorted-posts  %}
 <div class="col-md-4 mb-3">
   <div class="card h-100" >
     <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">

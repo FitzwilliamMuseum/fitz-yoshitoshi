@@ -11,7 +11,7 @@ The word for 'Aspect' or 'Type' or 'Appearance' (sô) had been famously used by 
 
 <div class="row">
 {% assign sorted-posts = site.explore | where: "series","customs" %}
-{% for author in sorted-posts limit: 5 %}
+{% for author in sorted-posts %}
 <div class="col-md-4 mb-3">
   <div class="card h-100" >
     <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">
