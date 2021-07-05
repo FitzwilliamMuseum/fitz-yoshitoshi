@@ -6,7 +6,7 @@ permalink: /explore/niimachi-kanta-splitting-the-head-of-an-enemy-attacker
 image: /images/thumbnails/P_201_2002.jpg
 ---
 
-![Niimachi Kanta splitting the head of an enemy attacker]({{site.baseurl}}/images/P_201_2002.jpeg){: .img-fluid }
+![Niimachi Kanta splitting the head of an enemy attacker]({{site.baseurl}}/images/P_201_2002.jpg){: .img-fluid }
 
 Colour print from woodblocks.
 &Ocirc;ban format.  

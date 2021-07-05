@@ -5,11 +5,11 @@ layout: default
 permalink: /explore/natsume-shinsuke-with-blood-dripping-from-his-sword
 series: biographies
 ---
-![]({{site.baseurl}}/images/P_204_2002.jpeg){: .img-fluid }
+![Natsume Shinsuke with blood dripping from his sword]({{site.baseurl}}/images/P_204_2002.jpg){: .img-fluid }
 
 Colour print from woodblocks.
 &Ocirc;ban.  
-Signed: _Kaisai Yoshitoshi hitsu_. 
+Signed: _Kaisai Yoshitoshi hitsu_.
 Artist's seal: _Kiri_.
 Publisher: Iseki (Many&ocirc;d&ocirc;).
 Block-carver: _Hori &Ocirc;ta Tashichi_.

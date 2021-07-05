@@ -7,7 +7,7 @@ image: /images/thumbnails/P_208_2002.jpg
 themes: [tattoos]
 ---
 
-![Kakine Toraz&ocirc; standing holding a pike beside a fallen ladder]({{site.baseurl}}/images/P_208_2002.jpeg){: .img-fluid }
+![Kakine Toraz&ocirc; standing holding a pike beside a fallen ladder]({{site.baseurl}}/images/P_208_2002.jpg){: .img-fluid }
 
 Colour print from woodblocks.  <em>&Ocirc;ban </em>format<em>. </em>
 <br />

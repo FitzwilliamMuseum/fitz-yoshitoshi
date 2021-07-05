@@ -5,7 +5,7 @@ layout: default
 permalink: /explore/washi-shinsuke-holdin-a-bamboo-spear
 series: biographies
 ---
-![Washi Shinsuke holding a bamboo spear]({{site.baseurl}}/images/P_205_2002.jpeg){: .img-fluid }
+![Washi Shinsuke holding a bamboo spear]({{site.baseurl}}/images/P_205_2002.jpg){: .img-fluid }
 
 Colour print from woodblocks.
 <br />

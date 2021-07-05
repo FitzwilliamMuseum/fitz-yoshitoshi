@@ -6,7 +6,7 @@ series: biographies
 image: /images/thumbnails/P_202_2002.jpg
 ---
 
-![Iiokano Sutegorô pinning down an opponent]({{site.baseurl}}/images/P_202_2002.jpeg){: .img-fluid }
+![Iiokano Sutegorô pinning down an opponent]({{site.baseurl}}/images/P_202_2002.jpg){: .img-fluid }
 
 Colour print from woodblocks. <em>&Ocirc;ban</em> format.  
 Block-carver: <em>Hori &Ocirc;ta Tashichi</em>.  

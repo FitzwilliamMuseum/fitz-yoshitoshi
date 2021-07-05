@@ -6,7 +6,7 @@ image: /images/thumbnails/P_203_2002.jpg
 series: biographies
 ---
 
-![Kagurajishi Daihachi running between swords]({{site.baseurl}}/images/P_203_2002.jpeg){:.img-fluid}
+![Kagurajishi Daihachi running between swords]({{site.baseurl}}/images/P_203_2002.jpg){:.img-fluid}
 
 Colour print from woodblocks.
 &Ocirc;ban </em>format<em>.

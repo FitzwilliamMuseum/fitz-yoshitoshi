@@ -5,7 +5,7 @@ layout: default
 permalink: /explore/mashira-no-denji-drinking-water-from-a-dipper
 series: biographies
 ---
-![Mashira no Denji drinking water from a dipper]({{site.baseurl}}/images/P_207_2002.jpeg)
+![Mashira no Denji drinking water from a dipper]({{site.baseurl}}/images/P_207_2002.jpg)
 Colour print from woodblocks. <em>&Ocirc;ban  </em>format.
 <br />
 Block-carver: <em>Hori &Ocirc;ta Tashichi</em>.
