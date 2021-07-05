@@ -11,6 +11,6 @@ This online exhibition features the collection of superb impressions of woodcut 
 
 You can explore the exhibition by clicking on individual prints in the Gallery, or you can choose prints from particular Series or depicting various Themes, via the menu bar down the left side of each page.
 
-The menu also gives you the chance to learn more about the artist (About Yoshitoshi), to appreciate how the prints were made (Techniques & Special Effects), to understand unfamiliar terms (Glossary), and to discover more about Yoshitoshi on your own (Resources & Links).
+The menu also gives you the chance to learn more [about the artist]({{site.baseurl}}/about-yoshitoshi), to appreciate how the [prints were made]({{site.baseurl}}/techniques), [to understand unfamiliar terms]({{site.baseurl}}/glossary), and to [discover more]({{site.baseurl}}/resources) about Yoshitoshi on your own.
 
 These pages were first created to accompany an exhibition that displayed most of this collection for the first time in the Fitzwilliam Museum from 8 February to 24 April 2005.
