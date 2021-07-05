@@ -3,6 +3,7 @@ layout: default
 title: "Hôrin Temple Moon: Yokobue"
 permalink: /explore/horin-temple-moon-yokobue-horinji-no-tsuki-yokobue
 image: /images/thumbnails/P_23_2003.jpg
+series: aspects
 ---
 
 ![Hôrin Temple Moon: Yokobue]({{site.baseurl}}/images/P_23_2003.jpg){: .img-fluid }
@@ -15,7 +16,7 @@ Publisher: Akiyama Buemon. First edition 20/12/1890
 Keyes 478-87. Stevenson 89  
 {: .text-info }
 
-From the series One Hundred Aspects of the Moon (Tsuki hyakkei) published in 1885-92.
+From the series [**One Hundred Aspects of the Moon (Tsuki hyakkei)**]({{site.baseurl}}/series/hundred-aspects-of-the-moon) published in 1885-92.
 Yokobue was an attendant of the empress Kenreimonin in the 12th century. A young guard fell in love with her, but when his father objected to the match he left
 to become a monk at Hôrin temple in the mountains.
 

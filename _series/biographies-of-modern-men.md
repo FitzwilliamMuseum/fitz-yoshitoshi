@@ -3,6 +3,7 @@ title: Biographies of Modern Men
 layout: default
 permalink: /series/biographies-of-modern-men
 order: 2
+image: /images/thumbnails/P_206_2002.jpeg
 ---
 This series shows leading figures in a violent feud between two gambling rings in Shimôsa province (now part of Chiba prefecture) in 1849, led by Iioka Sukegorô and Hanzô. These anti-establishment figures were heroic figures in the popular culture of the time. As with many of Yoshitoshi's prints in the violent and unsettled times of the mid to late 1860s, the series is full of blood and gore.
 

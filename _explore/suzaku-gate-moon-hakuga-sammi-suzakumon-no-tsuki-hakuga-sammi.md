@@ -17,10 +17,9 @@ Publisher: Akiyama Buemon. First edition 02/1886
 Keyes 478-19. Stevenson 20
 {: .text-info }
 
-From the series One Hundred Aspects of the Moon (Tsuki hyakkei) published in 1885-92.
+From the series [**One Hundred Aspects of the Moon (Tsuki hyakkei)**]({{site.baseurl}}/series/hundred-aspects-of-the-moon) published in 1885-92.
 
-Hakuga Sammi is the Chinese
-reading of the name and court rank of Minamoto no Hiromasa (918-80),
+Hakuga Sammi is the Chinese reading of the name and court rank of Minamoto no Hiromasa (918-80),
 grandson of Emperor Daigo. He was a famous musician, equally adept
 at playing a variety of wind and string instruments. We see him
 here from the rear, wearing the robes and lacquered hat of a Heian

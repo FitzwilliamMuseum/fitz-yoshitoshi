@@ -2,7 +2,7 @@
 layout: default
 title: "Moon above the Sea at Daimotsu Bay: Benkei"
 permalink: /explore/moon-above-the-sea-at-daimotsu-bay-benkei-daimotsu-kaijo-no-tsuki-benke
-series: customs
+series: aspects
 image: /images/thumbnails/P_19_2003.jpeg
 ---
 
@@ -17,6 +17,8 @@ Block-cutter: Enkatsu (Noguchi Enkatsu).
 Publisher: Akiyama Buemon. First edition 01/1886  
 Keyes 478-12. Stevenson 12  
 {: .text-info }
+
+From the series [**One Hundred Aspects of the Moon (Tsuki hyakkei)**]({{site.baseurl}}/series/hundred-aspects-of-the-moon) published in 1885-92.
 
 The story of the heroic
 deeds of Yoshitsune no Minamoto and his loyal servant, the warrior-priest

@@ -3,7 +3,7 @@ layout: default
 title: "Moon and Smoke"
 permalink: /explore/moon-and-smokeenchu-no-tsuki
 image: /images/thumbnails/P_22_2003.jpeg
-series: customs
+series: aspects
 ---
 
 ![Moon and Smoke]({{site.baseurl}}/images/P_22_2003.jpeg){: .img-fluid }
@@ -18,8 +18,7 @@ Publisher: Akiyama Buemon. First edition 02/1886
 Keyes 478-21. Stevenson 22
 {: .text-info }
 
-From the series One Hundred Aspects of the Moon (Tsuki hyakkei) published
-in 1885-92.
+From the series [**One Hundred Aspects of the Moon (Tsuki hyakkei)**]({{site.baseurl}}/series/hundred-aspects-of-the-moon) published in 1885-92.
 
 A contemporary scene showing an everyday hero in Tokyo, a tinder-box town built of wood and paper.
 Throughout his career, Yoshitoshi depicted firemen in his prints.

@@ -3,6 +3,7 @@ title: New Forms of the Thirty-six Ghosts
 permalink: /series/new-forms-of-the-thirty-six-ghosts
 layout: default
 order: 4
+image: /images/thumbnails/P_28_2003.jpeg
 ---
 
 This series of 36 prints was published by Sasaki Toyokichi in 1889-92. The subjects are drawn from various sources of legend from Japanese history and literature, kabuki and noh theatre, linked only by the presence of a supernatural being in each print.

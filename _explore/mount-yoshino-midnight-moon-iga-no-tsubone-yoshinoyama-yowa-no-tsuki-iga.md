@@ -18,7 +18,7 @@ Publisher: Akiyama Buemon. First edition 01/1886
 Keyes 478-14. Stevenson 15
 {: .text-info }
 
-From the series One Hundred Aspects of the Moon (Tsuki hyakkei) published in 1885-92.
+From the series [**One Hundred Aspects of the Moon (Tsuki hyakkei)**]({{site.baseurl}}/series/hundred-aspects-of-the-moon) published in 1885-92.
 
 Against the advice of  his general Masashige, Emperor Go-Daigo (1288-1339) was encouraged
 by courtier Sasaki Kiyotaka, for his own political gain, to fight

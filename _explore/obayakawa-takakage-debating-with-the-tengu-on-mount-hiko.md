@@ -9,12 +9,13 @@ series: ghosts
 ![Kobayakawa Takakage]({{site.baseurl}}/images/P_29_2003.jpg){: .img-fluid }
 
 Colour print from woodblocks, with blackened red lead.
-_Ôban_ format.
-Block-cutter: _Chokuzan_ (Negishi Chokuzan).
-Publisher: _Sasaki Toyokichi. First edition,_ 1892.
-Keyes 509-29; Stevenson 29
+_Ôban_ format.  
+Block-cutter: _Chokuzan_ (Negishi Chokuzan).  
+Publisher: _Sasaki Toyokichi. First edition,_ 1892.  
+Keyes 509-29; Stevenson 29  
+{: .text-info }
 
-From the series **New Forms of the Thirty-six Ghosts** (_Shingata sanjûrokkaisen_).
+From the series New Forms of the [**Thirty-six Ghosts (Shingata sanjûrokkaisen)**]({{site.baseurl}}/series/new-forms-of-the-thirty-six-ghosts) published in 1899-92.
 
 _Tengu_ ('heavenly dogs') were a form of goblin supposed to be born from giant eggs. They usually had long noses and lived on mountains, often taking the form of itinerant mountain priests (_yamabushi_). They were usually helpful sources of advice. Kobayakawa Takakage (1532-97) served as a general to Toyotomi Hideyoshi who unified Japan at the end of the sixteenth century. During a campaign on the island of Kyushu in the 1580s he was camped on Mount Hiko, when suddenly through the mists appeared this _tengu_, dressed as a _yamabushi_, demanding sternly to talk to the general whose army had disturbed him. Kobayakawa entered into debate and gained great wisdom from the _tengu_.
 

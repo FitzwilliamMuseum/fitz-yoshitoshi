@@ -17,7 +17,7 @@ Publisher: Tsunashima Kamekichi. First edition, printed 22/06/1888.
 Keyes 503-23; Stevenson 32  
 {: .text-info }
 
-From the series Thirty-two Aspects of Customs and Manners (Fûzoku sanjûnisô).
+From the series **[Thirty-two Aspects of Customs and Manners (Fûzoku sanjûnisô)]({{site.baseurl}}/series/thirty-two-aspects-of-customs-and-manners)**.
 
 This famous image of western
 fashion finishes the series and brings it bang up to date. No doubt

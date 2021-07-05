@@ -3,6 +3,7 @@ title: Thirty-two Aspects of Customs and Manners
 permalink: /series/thirty-two-aspects-of-customs-and-manners
 layout: default
 order: 5
+image: /images/thumbnails/P_4_2004.jpeg
 ---
 This series of 32 prints was published by Tsunashima Kamekichi in 1888. It depicts a chronological survey from the Kansei era (1789-1800) to the Meiji era (1860-1912) of women of different backgrounds and occupations, each associated with a particular mood or character trait.
 

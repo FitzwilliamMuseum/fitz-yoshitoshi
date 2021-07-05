@@ -17,7 +17,7 @@ Publisher: Tsunashima Kamekichi. First edition, printed 04/05/1888.
 Keyes 503-20; Stevenson 24  
 {: .text-info }
 
-From the series Thirty-two Aspects of Customs and Manners (Fûzoku sanjûnisô).
+From the series **[Thirty-two Aspects of Customs and Manners (Fûzoku sanjûnisô)]({{site.baseurl}}/series/thirty-two-aspects-of-customs-and-manners)**.
 
 The geisha ('skilled performer') is seated in a pleasure boat wearing a robe of silk
 gauze (ro) through which we can see her body, an effect

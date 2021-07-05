@@ -2,7 +2,6 @@
 layout: default
 title: "Komagine Hachibyôe"
 permalink: /explore/komagine-hachibyoe-aiming-his-rifle-at-the-viewer
-series: customs
 image: /images/thumbnails/P_12_2003.jpg
 ---
 

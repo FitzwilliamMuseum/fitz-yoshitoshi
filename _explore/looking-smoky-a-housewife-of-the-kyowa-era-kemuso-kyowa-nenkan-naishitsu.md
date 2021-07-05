@@ -18,7 +18,7 @@ Publisher: Tsunashima Kamekichi. First edition, printed 19/05/1888.
 Keyes 503-6; Stevenson 6
 {: .text-info }
 
-From the series Thirty-two Aspects of Customs and Manners (Fûzoku sanjûnisô).
+From the series **[Thirty-two Aspects of Customs and Manners (Fûzoku sanjûnisô)]({{site.baseurl}}/series/thirty-two-aspects-of-customs-and-manners)**.
 
 The particular word used in the title is a polite title for a housewife (naishitsu,
 literally 'inner chamber') of the upper or middle class. Her life

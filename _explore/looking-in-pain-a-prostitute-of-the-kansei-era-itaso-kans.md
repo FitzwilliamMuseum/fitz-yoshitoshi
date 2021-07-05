@@ -2,7 +2,7 @@
 layout: default
 title: "Looking in Pain"
 permalink: /explore/looking-in-pain-a-prostitute-of-the-kansei-era-itaso-kans
-series: aspects
+series: customs
 image: /images/thumbnails/P_1_2004.jpeg
 ---
 
@@ -18,7 +18,7 @@ Block-cutter: Wada hori Yû.
 Keyes 503-3; Stevenson 3  
 {: .text-info }
 
-From the series Thirty-two Aspects of Customs and Manners (Fûzoku sanjûnisô).
+From the series **[Thirty-two Aspects of Customs and Manners (Fûzoku sanjûnisô)]({{site.baseurl}}/series/thirty-two-aspects-of-customs-and-manners)**.
 
 The particular word used  in the title suggests that she is a lower-class prostitute (jorô).
 Her hairstyle reproduces fashions of the Kansei era (1789-1801)

@@ -3,6 +3,7 @@ title: One hundred aspects of the moon
 layout: default
 permalink: /series/hundred-aspects-of-the-moon
 order: 3
+image:  /images/thumbnails/P_22_2003.jpeg
 ---
 
 This series of 100 prints was published in 1885-92 by Akiyama Buemon. The subjects are drawn from various sources in Japanese and Chinese history and literature, Kabuki and Noh theatre, and even contemporary Tokyo, linked only by the presence of the moon in each print. The creation of mood according to the phase of the moon was exploited for its poetic and expressive possibilites. This was the most successful and still the most famous of Yoshitoshi's print series. People would queue before dawn to buy each new design and still find the edition sold out.
