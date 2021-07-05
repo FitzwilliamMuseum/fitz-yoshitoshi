@@ -2,8 +2,7 @@
 title: Kodanji
 permalink: /themes/kodanji
 layout: default
-image: /images/thumbnails/P_6_2003.jpeg
-
+image: /images/thumbnails/P_45_2003.jpg
 ---
 Ichikawa Kodanji IV (1812-66) was a disciple of the great Ichikawa Danjûrô VII in Osaka and succeeded his teacher as Edo's leading actor after Danjûrô's death in 1859. He overcame his slight stature and limited vocal gifts by developing the art of 'special effects' (keren), such as flying (chûnori) and quick-change technique (hayagawari), but he also won acclaim for his realism in playing well-intentioned men whose circumstances drove them into crime. Kodanji featured in numerous prints by artists of the previous generation, such as Kunisada and Yoshitoshi's teacher, Kuniyoshi.
 

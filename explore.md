@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /explore/
-title: Explore wood block prints
+title: Explore Yoshitoshi's work
 ---
 <div class="container mb-3">
   <div class="row">

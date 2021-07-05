@@ -2,11 +2,11 @@
 layout: default
 title: The Priest Nichiren praying for the restless spirit of the cormorant fisherman at the Isawa river
 themes: [moon]
-image: /images/P_17_2003.jpeg
+image: /images/thumbnails/P_17_2003.jpg
 permalink: /explore/the-priest-nichiren-praying-for-the-restless-spirit
 ---
 
-![]({{site.baseurl}}/images/P_17_2003.jpeg){: .img-fluid }
+![]({{site.baseurl}}/images/P_17_2003.jpg){: .img-fluid }
 
 _Nichiren shônin isawagawa nite ukai no meikon o saido shitamau no zo_
 
