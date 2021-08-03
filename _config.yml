@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   the help of the National Art Collections Fund. This collection, together with
   a large number of drawings by Yoshitoshi and his school, make the Fitzwilliam
   Museum a major resource for this artist."
-baseurl: "/yoshitoshi" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yoshitoshi.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/P.22-2003_201603_adn21_mas.jpg"
