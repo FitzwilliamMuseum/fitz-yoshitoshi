@@ -1,6 +1,7 @@
 ---
 title: Techniques & Special Effects
 layout: default
+permalink: /techniques/
 ---
 
 ![fine carving]({{site.baseurl}}/images/P.3-2004_I_smalldetail.jpg){: .img-fluid }

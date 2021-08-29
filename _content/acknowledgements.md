@@ -1,6 +1,7 @@
 ---
 title: Acknowledgements and credits
 layout: default
+permalink: /acknowledgements/
 ---
 Thanks to Tim Clark, Israel Goldman, Hideyuki Iwata and Roger Keyes for help at various stages with The Fitzwilliam Museum's Yoshitoshi project.
 

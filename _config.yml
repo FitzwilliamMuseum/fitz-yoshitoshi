@@ -58,6 +58,8 @@ collections:
       output: true
    series:
       output: true
+   content:
+      output: true
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"

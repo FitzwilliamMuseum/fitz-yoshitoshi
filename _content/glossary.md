@@ -1,9 +1,8 @@
 ---
 title: Glossary
 layout: default
+permalink: /glossary/
 ---
-Glossary
-========
 
 **_aiban_** print format measuring 340 x 220 mm.
 

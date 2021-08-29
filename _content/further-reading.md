@@ -1,6 +1,7 @@
 ---
 title: Further reading
 layout: default
+permalink: /further-reading/
 ---
 References are made on the pages in this site to the publications by Keyes, Marks and Stevenson listed below.
 
