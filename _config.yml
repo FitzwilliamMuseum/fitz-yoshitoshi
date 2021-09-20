@@ -21,11 +21,8 @@
 title: "Yoshitoshi: An online exhibition"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "This online exhibition features the collection of superb impressions of
-  woodcut prints by Yoshitoshi acquired by the Fitzwilliam Museum in 2003 with
-  the help of the National Art Collections Fund. This collection, together with
-  a large number of drawings by Yoshitoshi and his school, make the Fitzwilliam
-  Museum a major resource for this artist."
+  This online exhibition features the collection of superb impressions of
+  woodcut prints by Yoshitoshi.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yoshitoshi.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
@@ -33,7 +30,6 @@ github_username:  fitzwilliammuseum
 background: "/images/P.22-2003_201603_adn21_mas.jpg"
 collection_url: https://data.fitzmuseum.cam.ac.uk
 google_analytics: 'G-2R0YLY9DRS'
-
 # Build settings
 plugins:
   - jekyll-feed
