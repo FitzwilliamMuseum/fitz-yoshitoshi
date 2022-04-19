@@ -5,6 +5,8 @@
 
 This online exhibition features the collection of superb impressions of woodcut prints by Yoshitoshi acquired by the Fitzwilliam Museum in 2003 with the help of the National Art Collections Fund. This collection, together with a large number of drawings by Yoshitoshi and his school, make the Fitzwilliam Museum a major resource for this artist.
 
+![Social card](https://repository-images.githubusercontent.com/382170930/518a6519-021b-4382-bb14-bc817db47703)
+
 
 ## To run locally
 
